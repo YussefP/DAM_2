@@ -1,0 +1,151 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="_1rpyuGU8SkDDyjS4neF">
+    <mxGraphModel dx="1857" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NIVEL 0" vertex="1">
+          <mxGeometry height="40" width="200" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NIVEL 1" vertex="1">
+          <mxGeometry height="40" width="200" x="240" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NIVEL 2" vertex="1">
+          <mxGeometry height="40" width="200" x="440" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NIVEL 3" vertex="1">
+          <mxGeometry height="40" width="200" x="640" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Botón de Inicio de sesión / registro" vertex="1">
+          <mxGeometry height="80" width="120" x="80" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="F&lt;div&gt;i&lt;/div&gt;&lt;div&gt;t&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;&lt;div&gt;r&lt;/div&gt;&lt;div&gt;a&lt;/div&gt;&lt;div&gt;c&lt;/div&gt;&lt;div&gt;k&lt;/div&gt;&lt;div&gt;e&lt;/div&gt;&lt;div&gt;r&lt;/div&gt;" vertex="1">
+          <mxGeometry height="640" width="40" x="-40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Panel de control principal (Daskboard)" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="XkS_lAwp4ERnFXIB6gpp-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="200" as="sourcePoint" />
+            <mxPoint x="430" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="XkS_lAwp4ERnFXIB6gpp-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="320" as="sourcePoint" />
+            <mxPoint x="430" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-16" edge="1" parent="1" source="XkS_lAwp4ERnFXIB6gpp-10" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="XkS_lAwp4ERnFXIB6gpp-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="290" as="sourcePoint" />
+            <mxPoint x="280" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Listado de ejercicios de la rutina de hoy" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cronómetro para entrenar" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Botón de &quot;Añadir entrenamiento rápido&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gráfica de evolución semanal" vertex="1">
+          <mxGeometry height="80" width="120" x="680" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Buscador global de recetas" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sección de logros y medallas" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Edición de datos personales" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ajustes de la app" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-25" edge="1" parent="1" source="XkS_lAwp4ERnFXIB6gpp-12" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="XkS_lAwp4ERnFXIB6gpp-21" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="320" />
+              <mxPoint x="460" y="200" />
+            </Array>
+            <mxPoint x="380" y="370" as="sourcePoint" />
+            <mxPoint x="430" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-26" edge="1" parent="1" source="XkS_lAwp4ERnFXIB6gpp-12" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="XkS_lAwp4ERnFXIB6gpp-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="310" as="sourcePoint" />
+            <mxPoint x="390" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-27" edge="1" parent="1" source="XkS_lAwp4ERnFXIB6gpp-12" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="XkS_lAwp4ERnFXIB6gpp-23" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="320" />
+              <mxPoint x="460" y="440" />
+            </Array>
+            <mxPoint x="310" y="330" as="sourcePoint" />
+            <mxPoint x="350" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-28" edge="1" parent="1" source="XkS_lAwp4ERnFXIB6gpp-12" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="XkS_lAwp4ERnFXIB6gpp-24" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="320" />
+              <mxPoint x="460" y="560" />
+            </Array>
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="390" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Formulario para añadir comida personalizada" vertex="1">
+          <mxGeometry height="80" width="120" x="680" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Centro de ayuda (FAQs)" vertex="1">
+          <mxGeometry height="80" width="120" x="680" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-31" edge="1" parent="1" source="XkS_lAwp4ERnFXIB6gpp-21" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="XkS_lAwp4ERnFXIB6gpp-29" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="350" as="sourcePoint" />
+            <mxPoint x="430" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-32" edge="1" parent="1" source="XkS_lAwp4ERnFXIB6gpp-24" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="XkS_lAwp4ERnFXIB6gpp-30" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="350" as="sourcePoint" />
+            <mxPoint x="430" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-33" edge="1" parent="1" source="XkS_lAwp4ERnFXIB6gpp-22" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="XkS_lAwp4ERnFXIB6gpp-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="350" as="sourcePoint" />
+            <mxPoint x="430" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-35" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="XkS_lAwp4ERnFXIB6gpp-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-36" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="XkS_lAwp4ERnFXIB6gpp-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XkS_lAwp4ERnFXIB6gpp-37" edge="1" parent="1" source="XkS_lAwp4ERnFXIB6gpp-19" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="XkS_lAwp4ERnFXIB6gpp-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="490" as="sourcePoint" />
+            <mxPoint x="440" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
